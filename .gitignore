@@ -1,0 +1,13 @@
+bin
+out
+*.iml
+.gradle
+local.properties
+.idea
+.DS_Store
+build
+.settings
+briefcase.log
+logback.xml
+logback-test.xml
+gradle.properties
